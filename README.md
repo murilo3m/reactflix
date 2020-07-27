@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto de imersão React com [Alura](https://www.alura.com.br/) / Co-op with [Luciano Liboni](https://github.com/liboniluciano)
 
 ## Available Scripts
 
